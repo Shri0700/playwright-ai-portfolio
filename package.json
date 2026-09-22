@@ -11,5 +11,11 @@
   "devDependencies": {
     "@playwright/test": "^1.63.0",
     "@types/node": "^26.6.2"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "@playwright/mcp": "^0.0.82",
+    "dotenv": "^18.0.3",
+    "openai": "^7.22.0"
   }
 }
